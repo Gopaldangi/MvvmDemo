@@ -10,7 +10,7 @@ import java.util.*
 
 object LoginPreference {
 
-    private val prefName = "drclick_login"
+    private val prefName = "_login"
     private var sharedPreferences: SharedPreferences? = null
 
 
